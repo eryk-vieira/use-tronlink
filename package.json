@@ -10,7 +10,8 @@
     "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": "https://github.com/Eryk-Luiz/use-tronlink",
+  "homepage": "https://github.com/Eryk-Luiz/use-tronlink",
   "keywords": [
     "Blockchain",
     "Tronlink",
