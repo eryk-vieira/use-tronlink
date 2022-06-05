@@ -11,12 +11,6 @@
 </p>
 
 <hr>
-
-<p align="center">
-  <img src="https://github.com/Eryk-Luiz/React-Tronlink/blob/master/public/banner.png" width="600"></img>
-</p>
-
-
 ### :building_construction: Installation
 ```bash
   # Install using yarn
