@@ -27,7 +27,7 @@
 use-tronlink is a simple hook just like other ones, follow the example above to use it.
 
 ```tsx
-import { useTronLink } from 'use-tronlink';
+import { useTronlink } from 'use-tronlink';
 
 
 const MyComponent = () => {
@@ -36,7 +36,7 @@ const MyComponent = () => {
     walletName, // The wallet name
     trxBalance, // The wallet TRX balance
     isConnected, // A boolean checking it is connected or not
- } = useTronLink();
+ } = useTronlink();
 
 
   return (
