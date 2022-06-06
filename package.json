@@ -26,6 +26,7 @@
   ],
   "author": "Eryk-Luiz",
   "license": "MIT",
+  "type": "module",
   "devDependencies": {
     "@types/react": "^18.0.11",
     "babel-core": "^6.26.3",
