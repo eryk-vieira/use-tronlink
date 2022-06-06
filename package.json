@@ -1,6 +1,6 @@
 {
   "name": "use-tronlink",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A React hook that connects with Tronlink hot wallet",
   "main": "lib/index.js",
   "files": [
